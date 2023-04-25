@@ -15,7 +15,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- Talking about you -->
 **About Me:**
 
-- I’m currently working on __[Chalkboard](https://github.com/zjayers/chalkboard)__.
+<!-- - I’m currently working on __[Chalkboard](https://github.com/zjayers/chalkboard)__.-->
 - I’m currently learning AWS.
 - I’m looking to collaborate on anything!
 - Ask me about anything, I am happy to help.
@@ -32,7 +32,7 @@ You can use the website to generate badges: https://shields.io/
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
   <br />
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/amazon_aws/tableau-logo.svg"></code>
+  <code><img width="15%" src="[https://www.vectorlogo.zone/logos/amazon_aws/tableau-logo.svg](https://raw.githubusercontent.com/get-icon/geticon/master/icons/tableau.svg)"></code>
   <br />
 </p>
 

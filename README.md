@@ -33,7 +33,6 @@ You can use the website to generate badges: https://shields.io/
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
   <br />
   <code><img width="15%" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/tableau.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/amazon_aws/tableau-logo.svg"></code>
   <br />
 </p>
 

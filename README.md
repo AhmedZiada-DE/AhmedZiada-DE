@@ -20,7 +20,7 @@ You can use the website to generate badges: https://shields.io/
 - I’m looking to collaborate on anything!
 - Ask me about anything, I am happy to help.
 - Fun-Fact: I have a bachelor's degree in Mechatronics Engineering from Mansoura University before becoming a Data Engineer.
-- How to reach me: __ahmedziada10000@gmail.com__
+- How to reach me: __ahmedziad.de@gmail.com__
 
 ---
 

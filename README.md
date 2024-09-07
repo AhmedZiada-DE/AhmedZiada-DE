@@ -16,7 +16,7 @@ You can use the website to generate badges: https://shields.io/
 **About Me:**
 
 <!-- - I’m currently working on __[Chalkboard](https://github.com/zjayers/chalkboard)__. -->
-- I’m currently learning AWS.
+- I’m currently studying a Digital Engineering Master's degree at Bauhaus University.
 - I’m looking to collaborate on anything!
 - Ask me about anything, I am happy to help.
 - Fun-Fact: I have a bachelor's degree in Mechatronics Engineering from Mansoura University before becoming a Data Engineer.
